@@ -10,3 +10,6 @@
 [submodule "SimpleDHT"]
 	path = SimpleDHT
 	url = https://github.com/winlinvip/SimpleDHT.git
+[submodule "MQ-2-sensor-library"]
+	path = MQ-2-sensor-library
+	url = https://github.com/labay11/MQ-2-sensor-library.git
