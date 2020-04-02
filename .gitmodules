@@ -1,0 +1,12 @@
+[submodule "MySensors"]
+	path = MySensors
+	url = ./MySensors
+[submodule "NodeManager"]
+	path = NodeManager
+	url = ./NodeManager
+[submodule "Xedecimal"]
+	path = Xedecimal
+	url = https://github.com/Xedecimal/Sketches-Libraries-Xedecimal.git
+[submodule "SimpleDHT"]
+	path = SimpleDHT
+	url = https://github.com/winlinvip/SimpleDHT.git
