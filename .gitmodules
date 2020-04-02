@@ -3,7 +3,7 @@
 	url = https://github.com/mysensors/MySensors.git
 [submodule "NodeManager"]
 	path = NodeManager
-	url = https://github.com/mysensors/NodeManager.git
+	url = https://github.com/Xedecimal/NodeManager.git
 [submodule "Xedecimal"]
 	path = Xedecimal
 	url = https://github.com/Xedecimal/Sketches-Libraries-Xedecimal.git
