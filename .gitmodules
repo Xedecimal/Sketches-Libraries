@@ -1,9 +1,9 @@
 [submodule "MySensors"]
 	path = MySensors
-	url = ./MySensors
+	url = https://github.com/mysensors/MySensors.git
 [submodule "NodeManager"]
 	path = NodeManager
-	url = ./NodeManager
+	url = https://github.com/mysensors/NodeManager.git
 [submodule "Xedecimal"]
 	path = Xedecimal
 	url = https://github.com/Xedecimal/Sketches-Libraries-Xedecimal.git
